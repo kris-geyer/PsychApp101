@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PsychApp101</string>
+
+    <string name="t1">Purpose of app</string>
+    <string name="c1">The intent of this app is to conduct research into the smartphone usage. The app is made in combination with the [institution]. </string>
+
+    <string name="t2">How app functions</string>
+    <string name="c2">This app operates by detecting when the screen is off and on and storing the difference. The app also automatically turns itself on again when the phone is restarted.</string>
+
+    <string name="t3">Security of app</string>
+    <string name="c3">The data protected in the app is secured by the Armadillo - Encrypted Shared preferences (https://github.com/patrickfav/armadillo)</string>
+
+    <string name="t4">Consent to start collecting data</string>
+    <string name="c4">Do you consent for data collection to begin. Please uninstall this app if you do not. </string>
+    <string name="result">Result:</string>
+    <string name="get_result">get result</string>
+
+</resources>
